@@ -1,1 +1,1 @@
-# Hard-Rock
+# Search your songs, play and get lyrics.
